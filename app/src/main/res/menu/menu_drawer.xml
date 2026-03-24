@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_domain"
+        android:icon="@android:drawable/ic_menu_manage"
+        android:title="域名设置" />
+    <item
+        android:id="@+id/nav_settings"
+        android:icon="@android:drawable/ic_menu_preferences"
+        android:title="功能设置" />
+    <item
+        android:id="@+id/nav_timer"
+        android:icon="@android:drawable/ic_menu_recent_history"
+        android:title="定时停止播放" />
+    <item
+        android:id="@+id/nav_logout"
+        android:icon="@drawable/ic_logout"
+        android:title="退出登录" />
+    <item
+        android:id="@+id/nav_exit"
+        android:icon="@android:drawable/ic_lock_power_off"
+        android:title="关闭应用" />
+    <item
+        android:id="@+id/nav_about"
+        android:icon="@android:drawable/ic_menu_info_details"
+        android:title="关于回响" />
+</menu>
